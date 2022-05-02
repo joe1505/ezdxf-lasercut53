@@ -1,5 +1,7 @@
-#
 # Started 27Apr2022.
+# Released under the GPL3 license on 02May2022 at:
+#   https://github.com/joe1505/ezdxf-lasercut53/blob/main/dxf4lasercut53.py
+#
 # This is a simple demo of the proper incantations to create
 # a dxf file that can be imported by the LaserCut53 software. 
 # 
