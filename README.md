@@ -25,9 +25,9 @@ LaserCut53 menu
 can assign different laser settings (cut speed and laser power) to
 different objects. 
 
-![program file as displayed by LaserCut53](thecuts.png)
+![program file as displayed by LaserCut53](pix/thecuts.png)
 
 
-![the color buttons available on the LaserCut53 screen](cutmenu.png)
+![the color buttons available on the LaserCut53 screen](pix/cutmenu.png)
 
-![layer cutting settings menu](colorbuttons.png)
+![layer cutting settings menu](pix/colorbuttons.png)
