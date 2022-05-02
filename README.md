@@ -20,10 +20,14 @@ That's version 0.14 of ezdxf, which is slightly behind the latest on
 the ezdxf project page.
 
 The demo just creates some basic shapes (circle, line, ellipse, arc).
-![program file as displayed by LaserCut53](thecuts.png)
-Different colors are assigned to different shapes to that the
+Different colors are assigned to different shapes so that the
 LaserCut53 menu
-![layer cutting settings menu](colorbuttons.png)
-![the color buttons available on the LaserCut53 screen]cutmenu.png
-Can assign different laser settings (cut speed and laser power) to
+can assign different laser settings (cut speed and laser power) to
 different objects. 
+
+![program file as displayed by LaserCut53](thecuts.png)
+
+
+![the color buttons available on the LaserCut53 screen](cutmenu.png)
+
+![layer cutting settings menu](colorbuttons.png)
